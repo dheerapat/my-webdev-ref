@@ -11,6 +11,6 @@
 
 
 ### React
-[basic component](https://github.com/dheerapat/scrimba-react-course-1)
-[props](https://github.com/dheerapat/scrimba-react-course-2)
-[state](https://github.com/dheerapat/scrimba-react-course-3)
+[basic component](https://github.com/dheerapat/scrimba-react-course-1)  
+[props](https://github.com/dheerapat/scrimba-react-course-2)  
+[state](https://github.com/dheerapat/scrimba-react-course-3)  
